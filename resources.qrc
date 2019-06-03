@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>soldier.png</file>
+        <file>mymain.jpg</file>
+        <file>fire.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>footstep.mp3</file>
+    </qresource>
+</RCC>
